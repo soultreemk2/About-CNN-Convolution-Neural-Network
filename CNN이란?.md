@@ -87,7 +87,10 @@ convolutional layer에서 특징이 추출이 되었으면 이 추출된 특징 
 
 ![ㅇ](https://t1.daumcdn.net/cfile/tistory/23630641583ED6B01E)
 
-* Softmax 함수
+* Softmax 함수  
 Softmax도 앞에서 언급한 sigmoid나 ReLu와 같은 액티베이션 함수의 일종이다.  
 Sigmoid 함수가 이산 분류 (결과값에 따라 참 또는 거짓을 나타내는) 함수라면, Softmax 는 여러개의 분류를 가질 수 있는 함수이다.
 예를 들어서 사람을 넣었을때, 설현일 확률 0.9, 지현인 확율 0.1 식으로 0~1 사이의 확률로 표현해주는게 softmax 함수이다. 
+
+
+[출처](https://bcho.tistory.com/1149)
